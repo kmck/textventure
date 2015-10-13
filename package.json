@@ -4,7 +4,7 @@
   "description": "Make an adventure...IN TEXT!",
   "main": "index.js",
   "scripts": {
-    "demo": "node ./index.js --filename='./demo/script.md' --basePath='demo/out' --hostname='http://text.dog' --destination='txtventure'",
+    "demo": "node ./index.js --filename='./demo/script.md' --artPath='./demo/art' --basePath='demo/out' --hostname='http://text.dog' --destination='txtventure'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Keith McKnight",

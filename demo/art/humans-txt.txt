@@ -17,17 +17,3 @@
    |__| |_]|    ,-' . :uu-'/     \|UUU/
    |_______|   ;_|_|_/    :_;_;_;_:
     [=====]
-
-
-You're a dog in a human town.
-
---------------------------------------------------------------------------------
-
-  * Sit patiently, awaiting instruction from your human:
-    http://text.dog/txtventure/sit.txt
-
-  * Howl at the moon:
-    http://text.dog/txtventure/howl.txt
-
-  * Roll over for belly rubs:
-    http://text.dog/txtventure/roll-over.txt

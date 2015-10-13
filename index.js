@@ -14,6 +14,7 @@ if (require.main === module) {
     var argv = minimist(process.argv.slice(2));
     var defaults = {
         filename: 'demo/script.md',
+        artPath: 'demo/art',
         hostname: 'http://text.dog',
         destination: 'txtventure',
         basePath: 'demo/out',
