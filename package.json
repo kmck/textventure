@@ -1,0 +1,18 @@
+{
+  "name": "textventure",
+  "version": "1.0.0",
+  "description": "Make an adventure...IN TEXT!",
+  "main": "index.js",
+  "scripts": {
+    "demo": "node ./index.js --filename='./demo/script.md' --basePath='demo/out' --hostname='http://text.dog' --destination='txtventure'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keith McKnight",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "lodash": "^3.10.1",
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1"
+  }
+}

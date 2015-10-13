@@ -1,0 +1,8 @@
+{
+    "camelcase": true,
+    "eqeqeq": true,
+    "node": true,
+    "indent": 4,
+    "quotmark": "single",
+    "predef": [ "Promise" ],
+}
